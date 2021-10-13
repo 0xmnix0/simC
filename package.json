@@ -1,7 +1,7 @@
 {
-  "name": "ItsukiBot",
+  "name": "Bot-MoonV2",
   "version": "1.1.2",
-  "description": "WhatsApp Doang",
+  "description": "WhatsApp-Simple",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itsuki-chan/Wa.git"
+    "url": "git+https://github.com/Nando35"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ariffb",
+  "author": "Nando",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Itsuki-chan/Wa/issues"
