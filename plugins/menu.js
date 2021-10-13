@@ -186,8 +186,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     if (teks == '404') {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
-          "title": `Ｉｔｓｕｋｉ　Ｂｏｔ　翁ウざ\n\nUptime : ${uptime}\nUcapan : ${ucapan()}, ${name}`.trim(),
-          "description": "(っ◔◡◔)っ ♥ Itsuki Bot ♥",
+          "title": `Bot Moon\n\nUptime : ${uptime}\nUcapan : ${ucapan()}, ${name}`.trim(),
+          "description": "© Moon V.2",
           "buttonText": "CLICK HERE~~",
           "listType": "SINGLE_SELECT",
           "sections": [
