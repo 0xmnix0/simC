@@ -35,7 +35,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 *YOUTUBE URL:* ${vid.url}
 
 _Please wait until it's finished_
-`.trim(), 'Ｃｒｅａｔｅｄ Ｗｉｔｈ ❤️ ｂｙ Ｉｔｓｕｋｉ', `Audio ( ${filesizeF} )`, `.yta ${vid.url}`, `Video ( ${yt2.filesizeF} )`, `.yt ${vid.url}`)
+`.trim(), '© Moon V.2', `Audio ( ${filesizeF} )`, `.yta ${vid.url}`, `Video ( ${yt2.filesizeF} )`, `.yt ${vid.url}`)
 }
 handler.help = ['play', 'p', 'play2'].map(v => v + ' <Query>')
 handler.tags = ['downloader']
