@@ -1,5 +1,5 @@
 ﻿let fs = require('fs')
-global.owner = ['60199782326'] // Letakan nomor kamu disini
+global.owner = ['6281252848955'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -22,14 +22,14 @@ global.APIKeys = { // APIKey nya disini
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'pais',
-  'https://api.xteam.xyz': 'apikeymu',
+  'https://api.xteam.xyz': '533cd93c6e5d4e4f',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'nandowangy',
 }
 
 // Sticker WM
 global.packname = '❤️'
-global.author = 'Itsuki Chan'
+global.author = 'Nando'
 
 global.wait = '_*tunggu..*_'
 global.eror = '_*Server Error*_'
