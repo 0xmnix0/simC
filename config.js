@@ -33,7 +33,7 @@ global.author = 'Nando'
 
 global.wait = '_*tunggu..*_'
 global.eror = '_*Server Error*_'
-global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
+global.fla = 'https://i.postimg.cc/FsFmVwWj/dafc09a1311a1d9febf19bde92496ca9.jpg'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
