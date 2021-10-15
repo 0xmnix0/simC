@@ -5,21 +5,18 @@ let path = require('path')
 let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 const defaultMenu = {
-  before: `Bot Name : %me
+  before: `Bot Name : Moon V.2
 Your Name : %name
-Owner : wa.me/60199782326
 Uptime : %uptime
-Limit : %limit
 Prefix : Multi
-Xp : %exp
 Users : %totalreg
 Role : %role
 Jam : %time
 Date : %date
 Day : %week
 `.trimStart(),
-  header: '❑「 ```%category``` 」',
-  body: '▷ %cmd %islimit ',
+  header: '「 *%category* 」',
+  body: '• %cmd %islimit ',
   footer: '\n',
   after: `
 *%npmname@^%version*
